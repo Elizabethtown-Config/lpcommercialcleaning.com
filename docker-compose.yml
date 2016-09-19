@@ -1,7 +1,6 @@
 lpcommercialcleaning.com:
-  build: .
+  image: eignhpants/lpcommercialcleaning:stable
   ports:
     - 3337:3337
-
-
-
+  expose:
+    - 3337
