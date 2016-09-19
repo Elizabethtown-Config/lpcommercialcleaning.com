@@ -1,0 +1,7 @@
+lpcommercialcleaning.com:
+  build: .
+  ports:
+    - 3337:3337
+
+
+
